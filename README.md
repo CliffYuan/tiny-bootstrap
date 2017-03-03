@@ -11,7 +11,7 @@ which runs bochs with the correct config file.
 # 我的修改
 
 ## install
-sudo apt-get install bochs 
+sudo apt-get install bochs   
 sudo apt-get install bochs-sdl
 
 ## edit bochsrc.txt
